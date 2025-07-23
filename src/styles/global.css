@@ -2,6 +2,21 @@
 
 :root {
     --roboto-font: 'Roboto', sans-serif;
+    --black-color: #202020;
+    --white-1-color: #fefefe;
+    --white-2-color: #eeeeee;
+    --white-gray-color: #727272;
+    --yellow-1-color: #F9F9C5;
+    --yellow-2-color: #F2F2A0;
+    --yellow-gray-color: #727240;
+    --red-color: #FF0000;
+    --red-1-color: #FED6D6;
+    --red-2-color: #EEC6C6;
+    --red-gray-color: #724A4A;
+    --green-color: #00B515;
+    --green-1-color: #D6FED6;
+    --green-2-color: #C6EEC6;
+    --green-gray-color: #4A724A;
 }
 
 * {

@@ -1,10 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
-import exampleReducer from "./reducers/example.reducer";
+import mainReducer from "./reducers/main.reducer";
 
 export const store = configureStore({
   reducer: {
-    example: exampleReducer,
-    // Adicione outros reducers aqui conforme necessário
+    main: mainReducer
   }
 });
 

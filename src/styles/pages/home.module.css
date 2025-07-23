@@ -1,3 +1,22 @@
 .main {
+    background-color: var(--white-1-color);
     height: 100dvh;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.neutral {
+    background-color: var(--yellow-1-color);
+}
+
+.negative {
+    background-color: var(--red-1-color);
+}
+
+.positive {
+    background-color: var(--green-1-color);
+}
+
+.img {
+    width: 100px;
+    height: 100px;
 }
